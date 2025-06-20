@@ -22,6 +22,9 @@
 
             qemu
             flashrom
+
+            cbfstool
+            ifdtool
           ];
 
           shellHook = ''
