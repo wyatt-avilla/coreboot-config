@@ -20,6 +20,9 @@
             zlib
             pkg-config
             openssl
+            libuuid
+            nasm
+            imagemagick
 
             qemu
             flashrom
