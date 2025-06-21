@@ -19,6 +19,7 @@
             bison
             zlib
             pkg-config
+            openssl
 
             qemu
             flashrom
